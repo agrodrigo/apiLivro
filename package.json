@@ -12,5 +12,8 @@
     "api"
   ],
   "author": "Rodrigo Pinto Pereira",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
 }
